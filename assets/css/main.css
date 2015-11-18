@@ -480,6 +480,7 @@
 		color: rgba(45, 45, 45, 0.5);
 		position: relative;
 		margin-top: 10em;
+		margin-bottom: 10em;
 		margin: 0 0 1.5em 0;
 	}
 
@@ -997,6 +998,7 @@
 		}
 	#comain {
 		text-align: center;
+		margin-bottom: 2em;
 	} 
 /* Header */
 
@@ -1197,11 +1199,9 @@
 
 
 	#sendform{
-		margin-top:3em;
 		vertical-align: center;
 		position: center;
-		margin-left: auto;
-		margin-right: auto;
+		margin:0 auto;
 	}
 
 
